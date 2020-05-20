@@ -1,4 +1,4 @@
-_The script in this repository is a machine learning model that classifies quiz questions into two categories_
+**The script in this repository is a machine learning model that classifies quiz questions into two categories**
 
 Programming language: R
 
